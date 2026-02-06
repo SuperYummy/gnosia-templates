@@ -6,5 +6,8 @@ This website has the option to download a certain psd template. For example, we 
 
 1. Go to psds > interface_minimal > interface_minimal.psd. Alternatively, go to this link https://github.com/SuperYummy/gnosia-templates/blob/main/psds/interface_minimal/interface_minimal.psd
 2. Press the button with the three dots
+
+    https://github.com/SuperYummy/gnosia-templates/blob/main/download_step_2.png
+   
    *The button in the top right corner*
 4. Press **Download**
