@@ -1,8 +1,8 @@
 # Gnosia Templates
 Pre-made **.psd** files you can use. All that is left is to edit the text and replace the character however you want
 
-**psds** - Scenes
-**component-psds** - Sprites, including edits (not found in the game)
+- **psds** - Scenes
+- **component-psds** - Sprites, including edits (not found in the game)
 
 ## Downloading a specific PSD
 This website has the option to download a certain psd template. For example, we will download only **interface_minimal.psd**
